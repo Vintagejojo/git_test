@@ -1,0 +1,1 @@
+This is Vintagejojo's first git project!
